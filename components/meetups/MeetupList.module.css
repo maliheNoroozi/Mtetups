@@ -1,0 +1,14 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.noDataMessage {
+  display: flex;
+  height: 750px;
+}
+
+.noDataMessage h3 {
+  margin: auto;
+}
